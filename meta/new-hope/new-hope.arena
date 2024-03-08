@@ -1,6 +1,6 @@
 {
-        map "new-hope"
-        longname "New Hope"
-        type "tremulous"
-        author "Gucior"
+	map "new-hope"
+	longname "New Hope"
+	author "Gucior"
+	type "tremulous"
 }
