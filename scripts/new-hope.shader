@@ -115,3 +115,17 @@ textures/new-hope/cubelight_32_blue_s_weak
 		blendfunc GL_ONE GL_ONE
 	}
 }
+
+// placeholder for the fan texture
+textures/new-hope/eq2_bounce
+{
+        {
+                map textures/atcshd/eq2_bmtl_05
+                tcMod scale 2 2
+                rgbGen identity
+        }
+        {
+		map $lightmap
+                rgbGen identity
+	}
+}
